@@ -12,3 +12,7 @@ Schematic Diagram
 
 ![SURFpiCANhat_PCB_Assembled](https://github.com/jebradshaw/SURFpiCANhat_2022/assets/5246863/a934c435-7087-47a5-ba32-5a3ec37ee055)
 Assembled Board Installed on RasPi 4 Surface vessel
+
+![CAN_GPIO_Setup_SurfVessel_configTxt](https://github.com/jebradshaw/SURFpiCANhat_2022/assets/5246863/fb81ffef-6d9c-4030-9f87-dba4a796d6f7)
+Be Sure to enable SPI and update the config.txt on the RasPi to use the CAN interface
+
