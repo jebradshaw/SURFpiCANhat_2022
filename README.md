@@ -8,4 +8,7 @@ This Surface vessel Raspberry Pi CAN HAT board is for controlling four VESC moto
 Snapshot of Printed Circuit Board from Express PCB
 
 ![SURF RasPi Hat v1 1 20240109](https://github.com/jebradshaw/SURFpiCANhat_2022/assets/5246863/22c2b551-7714-411a-9be4-bb150892ba81)
-Schematic
+Schematic Diagram
+
+![SURFpiCANhat_PCB_Assembled](https://github.com/jebradshaw/SURFpiCANhat_2022/assets/5246863/a934c435-7087-47a5-ba32-5a3ec37ee055)
+Assembled Board Installed on RasPi 4 Surface vessel
