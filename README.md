@@ -16,7 +16,14 @@ Assembled Board Installed on RasPi 4 Surface vessel
 ![CAN_GPIO_Setup_SurfVessel_configTxt](https://github.com/jebradshaw/SURFpiCANhat_2022/assets/5246863/fb81ffef-6d9c-4030-9f87-dba4a796d6f7)
 
   Be Sure to enable SPI and update the config.txt on the RasPi to use the CAN interface.  The MCP2515 uses GPIO-12 for the Interrupt pin.  Crystal 
-oscillator is 16MHz (X1) on the MCP2515.
+oscillator is 16MHz (X1) on the MCP2515.  Also configures GPIO-5 and GPIO-6 with no-pullups as the Relay Control Board pulls down EN1 and RST with 10K ohm resistors to prevent floating inputs.  Shown Below:
+
+![RelayControlBoard_DigitalIO_Control_Inputs](https://github.com/jebradshaw/SURFpiCANhat_2022/assets/5246863/6b167eef-663d-4f76-9de6-e0310c4b7af5)
+
+
+
+
+
 
 
 
